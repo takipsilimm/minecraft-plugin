@@ -1,0 +1,4 @@
+name: SanctumServerStatus
+version: 1.0
+main: com.sanctum.status.SanctumServerStatus
+api-version: 1.20
