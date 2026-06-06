@@ -1,0 +1,4 @@
+src/main/java/com/example/plugin/Main.java
+src/main/resources/plugin.yml
+pom.xml
+.github/workflows/build.yml
